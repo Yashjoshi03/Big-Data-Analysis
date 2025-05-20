@@ -66,4 +66,16 @@ Shows a scatter plot of all airport locations.
 ### 🔄 KMeans Clustered Airports  
 Visualizes 5 geographic clusters derived from lat/lon using KMeans.
 
+**OUTPUT:**
+
+![Image](https://github.com/user-attachments/assets/9f301fad-62be-4fb9-a634-ed8c1a4f6f7d)
+
+![Image](https://github.com/user-attachments/assets/def17b0a-4ba1-4247-9091-a8462a75ae4d)
+
+![Image](https://github.com/user-attachments/assets/341451c5-a0fc-4eb1-863a-e42f3025b4e0)
+
+![Image](https://github.com/user-attachments/assets/147ad8c5-2036-4195-8a0f-3bac98a476a3)
+
+![Image](https://github.com/user-attachments/assets/09ec1d42-7591-460f-acfb-69227c5f0d0e)
+
 
