@@ -1,4 +1,17 @@
 # Big-Data-Analysis
+**COMPANY: CODTECH IT SOLUTIONS**
+
+**NAME: YASH JOSHI**
+
+**INTERN ID: CT12DL193**
+
+**DOMAIN: DATA ANALYTICS**
+
+**DURATION: 12 WEEKS**
+
+**MENTOR: NEELA SANTOSH**
+
+
 # ✈️ Airport Data Analysis using PySpark, Pandas & KMeans Clustering
 
 This project performs exploratory data analysis and unsupervised clustering on a dataset of airports using **PySpark** and **scikit-learn**, with data visualizations powered by **Matplotlib**.
